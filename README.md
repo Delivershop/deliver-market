@@ -1,1 +1,3 @@
-# deliver-market
+# Ma Boutique PHP sur Render
+
+Instructions pour déploiement...
